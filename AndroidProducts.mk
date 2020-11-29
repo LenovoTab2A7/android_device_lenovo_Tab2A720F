@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    device/lenovo/Tab2A710F/device.mk
+    device/lenovo/Tab2A720F/device.mk
